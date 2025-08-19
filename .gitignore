@@ -21,3 +21,13 @@ dist/
 
 # VS Code
 .vscode/
+
+# Environment variables
+.env
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
