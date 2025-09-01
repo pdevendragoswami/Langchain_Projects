@@ -2,6 +2,10 @@ langchain
 langchain_community
 langchain_openai
 langchain_groq
+langchain-ollama
+langchain_huggingface
+sentence-transformers
+langchain_core
 streamlit
 ipykernel
 python-dotenv
@@ -11,3 +15,12 @@ duckduckgo-search
 ddgs
 faiss-cpu
 faiss-gpu
+pypdf
+langchain_chroma
+mysql
+validators
+youtube_transcript_api
+pytube
+numexpr
+langchain_experimental
+unstructured
