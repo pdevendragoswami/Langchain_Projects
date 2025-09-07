@@ -24,3 +24,7 @@ pytube
 numexpr
 langchain_experimental
 unstructured
+boto3
+awscli
+openai
+langchain_nvidia_ai_endpoints
