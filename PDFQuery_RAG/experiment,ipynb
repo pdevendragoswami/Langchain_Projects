@@ -1,0 +1,2 @@
+export ASTRA_DB_API_ENDPOINT="https://5ae6070d-59df-4dd7-98a1-3008a50ed999-us-east1.apps.astra.datastax.com"
+export ASTRA_DB_APPLICATION_TOKEN="YOUR_TOKEN"
