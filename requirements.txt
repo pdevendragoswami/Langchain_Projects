@@ -28,3 +28,10 @@ boto3
 awscli
 openai
 langchain_nvidia_ai_endpoints
+crewai
+crewai_tools
+yt_dlp==2023.11.14
+youtube-transcript-api==0.6.1
+youtube-transcript-api
+pinecone
+pinecone_text
